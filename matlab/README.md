@@ -19,7 +19,8 @@ $MATLAB\toolbox\local\classpath.txt
 For more information, see: http://www.mathworks.com/matlabcentral/answers/96993-how-can-i-use-a-java-class-from-a-jar-file-in-matlab
 
 Check java path by typing:
->> javaclasspath
+
+    >> javaclasspath
 
 (3) Download JSONLab. Add to Matlab path (e.g. use Set Path button or addpath())
 http://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files-in-matlab-octave
